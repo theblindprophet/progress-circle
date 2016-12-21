@@ -33,6 +33,7 @@ Include JS file:
 
 |Option|Description|
 |---|---|
+|color|Color of the bar (Default: `#0B2546`)|
 |height|Height of the canvas, in `px` or `%` (Default: `200px`)|
 |width|Width of the canvas, in `px` or `%` (Default: `200px`)|
 |line_width|Width/thickness of the progress bar (Default: `8`)|
